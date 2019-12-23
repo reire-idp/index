@@ -1,0 +1,42 @@
+[
+{ "nom": "CARHUS Plus+ 2018",
+  "imatge": "/public/images/carhus.gif",
+  "link": "http://agaur.gencat.cat/ca/avaluacio/carhus/"
+},
+{ "nom": "CIRC",
+  "imatge": "/public/images/circ.gif",
+  "link": "https://clasificacioncirc.es/ficha_revista?id=250752"
+},
+{ "nom": "DICE",
+  "imatge": "/public/images/dice.gif",
+  "link": "http:/epuc.cchs.csic.es/dice/index.php"
+},
+{ "nom": "ERIH PLUS",
+  "imatge": "/public/images/erih.gif",
+  "link": "https://dbh.nsd.uib.no/publiseringskanaler/erihplus/periodical/info?id=497382"
+},
+{ "nom": "Google Scholar Metrics (GSM)",
+  "imatge": "https://s3.amazonaws.com/libapps/accounts/4838/images/google_scholar_metrics_oficial.jpg",
+  "link": "https://scholar.google.com/citations?view_op=search_venues&amp;vq=revista%20innovacio%20recerca%20educacio"
+},
+{ "nom": "IN-RECS",
+  "imatge": "https://web.archive.org/web/20141026083834im_/http://ec3.ugr.es/iconos/in-recs.jpg",
+  "link": "http://digibug.ugr.es/bitstream/handle/10481/32471/IHREGSM2014.V2.0.pdf;jsessionid=F90825E280C7551FF9FFC5A952C8AEF2?sequence=8"
+},
+{ "nom": "Journal Scholar Metrics",
+  "imatge": "http://www.uco.es/servicios/biblioteca/images/img/indices_impacto/journal_scholar.png",
+  "link": "http://www.journal-scholar-metrics.infoec3.es/layout.php?id=journal&amp;j_name=REIRE.+Revista+d%27Innovaci%C3%B3+i+Recerca+en+Educaci%C3%B3"
+},
+{ "nom": "Latindex",
+  "imatge": "/public/images/latindex.gif",
+  "link": "https://www.latindex.org/latindex/ficha?folio=21013"
+},
+{ "nom": "MIAR",
+  "imatge": "/public/images/miar.gif",
+  "link": "http://miar.ub.edu/issn/2013-2255"
+},
+{ "nom": "RESH",
+  "imatge": "/public/images/resh.gif",
+  "link": "http://epuc.cchs.csic.es/resh/"
+} 
+]

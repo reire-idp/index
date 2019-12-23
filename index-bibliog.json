@@ -1,0 +1,70 @@
+[
+  { "nom": "Academic Journals Database",
+  "imatge": "https://adcaij.usal.es/sites/default/files/ajd-logo.png",
+  "link": "http://journaldatabase.info/journal/issn2013-2255"
+},
+{ "nom": "BASE Bielefeld University Library",
+  "imatge": "https://www.base-search.net/interface/images/base_logo_kl.png",
+  "link": "https://www.base-search.net/Record/599119332a5c579ff8b4c15206b4d1e093f93f42bcdebc8e23417f1920234f12/"
+},
+{ "nom": "CrossRef",
+  "imatge": "https://assets.crossref.org/logo/crossref-logo-landscape-200.png",
+  "link": "https://search.crossref.org/?q=+2013-2255"
+},
+{ "nom": "Dialnet",
+  "imatge": "/public/images/dialnet.gif",
+  "link": "https://dialnet.unirioja.es/servlet/revista?codigo=20018"
+},
+{ "nom": "Dimensions",
+  "imatge": "https://www.digital-science.com/wp-content/uploads/2018/01/dimensions-395x149.png",
+  "link": "https://www.dimensions.ai/"
+},
+{ "nom": "EZB Elektronische Zeitschriftenbibliothek",
+  "imatge": "https://www.zhaw.ch/storage/_processed_/0/9/csm_logo-ezb-klein_ca00917fcf.jpg",
+  "link": "https://zdb-katalog.de/title.xhtml?idn=1018079564"
+},
+{ "nom": "Hoya Search Georgetown University Library",
+  "imatge": "https://www.library.georgetown.edu/sites/default/files/070918-SMALL-HoyaSearch_1.jpg",
+  "link": "https://wrlc-gu.primo.exlibrisgroup.com/discovery/jsearch?query=any,contains,reire&amp;tab=jsearch_slot&amp;vid=01WRLC_GUNIV:01WRLC_GUNIV&amp;offset=0&amp;journals=any,reire"
+},
+{ "nom": "ÍnDICEs-CSIC Información y Documentación de la Ciencia en España",
+  "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmUSWtmRVVpPgbnRbOMDYZ5Guq7hHoGx7Dun2lsSaEiGQ1Rwa",
+  "link": "https://indices.app.csic.es/bddoc-internet/pages/mtorevistas/ConsultaDetalleRev.html?idRevista=2887"
+},
+{ "nom": "IRESIE Base de datos sobre educación - IISUE, UNAM",
+  "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71otZijUOhjkN-J7geOna_wQDA_VDC7kK3Ge3EUWJipMds7La",
+  "link": "http://iresie.unam.mx/F?func=find-b-0&amp;local_base=irs01"
+},
+{ "nom": "JorunalTOCs",
+  "imatge": "https://bibliosjd.files.wordpress.com/2012/11/journal-tocs-logo.jpg?resize=298%2C193",
+  "link": "http://www.journaltocs.ac.uk/index.php?action=search&subAction=hits&journalID=28302&userQueryID=63762&high=1&ps=30&page=1&items=0&journal_filter=&journalby="
+},
+{ "nom": "PKP Index, Public Knowledge Project",
+  "imatge": "https://index.pkp.sfu.ca/public/site/resources/images/pkp_index_logo.png",
+  "link": "https://index.pkp.sfu.ca/index.php/browse/index/914"
+},
+{ "nom": "Pro Quest",
+  "imatge": "/public/images/proquest.gif",
+  "link": "https://search.proquest.com/publication/2034487/citation/6D324B8B5F2F441EPQ/"
+},
+{ "nom": "RECERCAT Dipòsit de la recerca de Catalunya",
+  "imatge": "https://www.recercat.cat/themes/RECERCAT/Imatges/Recercat.png",
+  "link": "https://www.recercat.cat/"
+},
+{ "nom": "REDIB",
+  "imatge": "/public/images/redib.gif",
+  "link": "https://redib.org/recursos/Record/oai_revista3863-reire-revista-d%27innovacio-recerca-educacio"
+},
+{ "nom": "REDINET",
+  "imatge": "/public/images/redined.gif",
+  "link": "http://redined.mecd.gob.es/xmlui/browse?value=REIRE+%3A+revista+d%27innovaci%C3%B3+i+recerca+en+educaci%C3%B3&amp;type=journal"
+},
+{ "nom": "ResearchBib",
+  "imatge": "/public/images/researchbib.gif",
+  "link": "http://journalseeker.researchbib.com/view/issn/2013-2255"
+},
+{ "nom": "ULRICH'S",
+  "imatge": "/public/images/ulrichs.gif",
+  "link": "http://ulrichsweb.serialssolutions.com/login"
+}
+]

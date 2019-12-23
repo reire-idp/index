@@ -1,22 +1,22 @@
 [
   { "nom": "DOAJ + Seal",
-  "imatge": "/public/images/doaj.gif",
+  "imatge": "http://revistes.ub.edu/public/images/doaj.gif",
   "link": "https://doaj.org/search?source=%7B%22query%22%3A%7B%22filtered%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22_type%22%3A%22journal%22%7D%7D%2C%7B%22term%22%3A%7B%22index.has_seal.exact%22%3A%22Yes%22%7D%7D%5D%7D%7D%2C%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22reire%22%2C%22default_operator%22%3A%22AND%22%7D%7D%7D%7D%2C%22sort%22%3A%5B%7B%22created_date%22%3A%7B%22order%22%3A%22desc%22%7D%7D%5D%2C%22from%22%3A0%2C%22size%22%3A10%7D"
 },
 { "nom": "Dulcinea",
-  "imatge": "/public/images/dulcinea.gif",
+  "imatge": "http://revistes.ub.edu/public/images/dulcinea.gif",
   "link": "https://www.accesoabierto.net/dulcinea/ficha1483"
 },
 { "nom": "Journals for free",
-  "imatge": "/public/images/J4F.gif",
+  "imatge": "http://revistes.ub.edu/public/images/J4F.gif",
   "link": "http://journals4free.com/?q=reire&x=0&y=0"
 },
 { "nom": "Periodicos CAPES/MEC",
-  "imatge": "/public/images/capes.gif",
+  "imatge": "http://revistes.ub.edu/public/images/capes.gif",
   "link": "http://www.periodicos.capes.gov.br/?option=com_pmetabusca&mn=88&smn=88&type=p&sfx=aHR0cHM6Ly9idXNjYWRvci5wZXJpb2RpY29zLmNhcGVzLmdvdi5ici9WP2Z1bmM9ZmluZC1lai0xJmluc3RpdHV0ZT1DQVBFUyZwb3J0YWw9Tk9WTyZuZXdfbG5nPVBPUg%3D%3D&sfxparam=2013-2255"
 },
 { "nom": "RACO Revistes catalanes amb accés obert",
-  "imatge": "/public/images/raco.gif",
+  "imatge": "http://revistes.ub.edu/public/images/raco.gif",
   "link": "https://www.raco.cat/index.php/REIRE"
 },
 { "nom": "RECOLECTA Recolector de ciencia abierta",
@@ -24,7 +24,7 @@
   "link": "https://www.recolecta.fecyt.es/"
 },
 { "nom": "ROAD",
-  "imatge": "/public/images/road.gif ",
+  "imatge": "http://revistes.ub.edu/public/images/road.gif ",
   "link": "https://portal.issn.org/resource/ISSN/2013-2255#"
 }
 ]

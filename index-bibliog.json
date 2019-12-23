@@ -12,7 +12,7 @@
   "link": "https://search.crossref.org/?q=+2013-2255"
 },
 { "nom": "Dialnet",
-  "imatge": "/public/images/dialnet.gif",
+  "imatge": "http://revistes.ub.edu/public/images/dialnet.gif",
   "link": "https://dialnet.unirioja.es/servlet/revista?codigo=20018"
 },
 { "nom": "Dimensions",
@@ -44,7 +44,7 @@
   "link": "https://index.pkp.sfu.ca/index.php/browse/index/914"
 },
 { "nom": "Pro Quest",
-  "imatge": "/public/images/proquest.gif",
+  "imatge": "http://revistes.ub.edu/public/images/proquest.gif",
   "link": "https://search.proquest.com/publication/2034487/citation/6D324B8B5F2F441EPQ/"
 },
 { "nom": "RECERCAT Dipòsit de la recerca de Catalunya",
@@ -52,19 +52,19 @@
   "link": "https://www.recercat.cat/"
 },
 { "nom": "REDIB",
-  "imatge": "/public/images/redib.gif",
+  "imatge": "http://revistes.ub.edu/public/images/redib.gif",
   "link": "https://redib.org/recursos/Record/oai_revista3863-reire-revista-d%27innovacio-recerca-educacio"
 },
 { "nom": "REDINET",
-  "imatge": "/public/images/redined.gif",
+  "imatge": "http://revistes.ub.edu/public/images/redined.gif",
   "link": "http://redined.mecd.gob.es/xmlui/browse?value=REIRE+%3A+revista+d%27innovaci%C3%B3+i+recerca+en+educaci%C3%B3&amp;type=journal"
 },
 { "nom": "ResearchBib",
-  "imatge": "/public/images/researchbib.gif",
+  "imatge": "http://revistes.ub.edu/public/images/researchbib.gif",
   "link": "http://journalseeker.researchbib.com/view/issn/2013-2255"
 },
 { "nom": "ULRICH'S",
-  "imatge": "/public/images/ulrichs.gif",
+  "imatge": "http://revistes.ub.edu/public/images/ulrichs.gif",
   "link": "http://ulrichsweb.serialssolutions.com/login"
 }
 ]

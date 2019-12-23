@@ -1,18 +1,18 @@
 [
 { "nom": "CARHUS Plus+ 2018",
-  "imatge": "/public/images/carhus.gif",
+  "imatge": "http://revistes.ub.edu/public/images/carhus.gif",
   "link": "http://agaur.gencat.cat/ca/avaluacio/carhus/"
 },
 { "nom": "CIRC",
-  "imatge": "/public/images/circ.gif",
+  "imatge": "http://revistes.ub.edu/public/images/circ.gif",
   "link": "https://clasificacioncirc.es/ficha_revista?id=250752"
 },
 { "nom": "DICE",
-  "imatge": "/public/images/dice.gif",
+  "imatge": "http://revistes.ub.edu/public/images/dice.gif",
   "link": "http:/epuc.cchs.csic.es/dice/index.php"
 },
 { "nom": "ERIH PLUS",
-  "imatge": "/public/images/erih.gif",
+  "imatge": "http://revistes.ub.edu/public/images/erih.gif",
   "link": "https://dbh.nsd.uib.no/publiseringskanaler/erihplus/periodical/info?id=497382"
 },
 { "nom": "Google Scholar Metrics (GSM)",
@@ -28,15 +28,15 @@
   "link": "http://www.journal-scholar-metrics.infoec3.es/layout.php?id=journal&amp;j_name=REIRE.+Revista+d%27Innovaci%C3%B3+i+Recerca+en+Educaci%C3%B3"
 },
 { "nom": "Latindex",
-  "imatge": "/public/images/latindex.gif",
+  "imatge": "http://revistes.ub.edu/public/images/latindex.gif",
   "link": "https://www.latindex.org/latindex/ficha?folio=21013"
 },
 { "nom": "MIAR",
-  "imatge": "/public/images/miar.gif",
+  "imatge": "http://revistes.ub.edu/public/images/miar.gif",
   "link": "http://miar.ub.edu/issn/2013-2255"
 },
 { "nom": "RESH",
-  "imatge": "/public/images/resh.gif",
+  "imatge": "http://revistes.ub.edu/public/images/resh.gif",
   "link": "http://epuc.cchs.csic.es/resh/"
-} 
+}
 ]

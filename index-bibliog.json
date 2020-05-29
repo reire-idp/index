@@ -7,6 +7,10 @@
   "imatge": "https://www.base-search.net/interface/images/base_logo_kl.png",
   "link": "https://www.base-search.net/Record/599119332a5c579ff8b4c15206b4d1e093f93f42bcdebc8e23417f1920234f12/"
 },
+{ "nom": "CORE",
+  "imatge": "https://core.ac.uk/resources/core-logo.png",
+  "link": "https://core.ac.uk/search?q=(reire)&journal=2013-2255"
+},
 { "nom": "CrossRef",
   "imatge": "https://assets.crossref.org/logo/crossref-logo-landscape-200.png",
   "link": "https://search.crossref.org/?q=+2013-2255"

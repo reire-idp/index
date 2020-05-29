@@ -11,6 +11,10 @@
   "imatge": "http://revistes.ub.edu/public/images/J4F.gif",
   "link": "http://journals4free.com/?q=reire&x=0&y=0"
 },
+{ "nom": "OpenAIRE",
+  "imatge": "https://www.openaire.eu/templates/yootheme/cache/Logo_Horizontal-8f5eba15.png",
+  "link": "https://explore.openaire.eu"
+},
 { "nom": "Periodicos CAPES/MEC",
   "imatge": "http://revistes.ub.edu/public/images/capes.gif",
   "link": "http://www.periodicos.capes.gov.br/?option=com_pmetabusca&mn=88&smn=88&type=p&sfx=aHR0cHM6Ly9idXNjYWRvci5wZXJpb2RpY29zLmNhcGVzLmdvdi5ici9WP2Z1bmM9ZmluZC1lai0xJmluc3RpdHV0ZT1DQVBFUyZwb3J0YWw9Tk9WTyZuZXdfbG5nPVBPUg%3D%3D&sfxparam=2013-2255"

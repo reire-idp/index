@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN"
+"https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<ArticleSet>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>28</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>De la crisi de la convivència i l’estar junts en
+    educació</VernacularTitle>
+
+    <FirstPage>1</FirstPage>
+
+    <LastPage>12</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3231</ELocationID>
+
+    <Language>ES</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Carlos</FirstName>
+
+        <LastName>Skliar</LastName>
+
+        <Affiliation>Facultad Latinoamericana de Ciencias Sociales, área de
+        Educación; Buenos Aires. skliar@flacso.org.ar</Affiliation>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3231</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>El texto que se presenta no busca tanto un cuestionamiento a los
+    formatos tradicionales de pensar lo común en la educación, sino que
+    insiste en una pregunta sobre la convivencia, por el estar juntos en las
+    instituciones educativas. Una cuestión quizá curiosa o excéntrica en
+    tiempos en que parece que lo habitual sea la incomunión, la desidia, el
+    abandono, el miedo a todo lo que pueda ser (en apariencia) extraño o
+    intruso o débil o ajeno o indescifrable o incognoscible.</Abstract>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>28</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>Elogi de la visualització: l'aprenentatge del pensament
+    visual en matemàtiques</VernacularTitle>
+
+    <FirstPage>13</FirstPage>
+
+    <LastPage>20</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3232</ELocationID>
+
+    <Language>CA</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Claudi</FirstName>
+
+        <LastName>Alsina-Català</LastName>
+
+        <Affiliation>Universitat Politècnica de Catalunya (UPC).
+        claudio.alsina@upc.edu</Affiliation>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3232</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>En l’educació matemàtica de tots els nivells es distingeixen
+    quatre tipologies de visualització: il•lustracions, materials, grafs /
+    diagrames i imatges geomètriques. S’analitzarà, a la llum dels mitjans
+    visualitzadors actuals i dels resultats en aquest camp de la recerca
+    educativa, el rol central que les imatges geomètriques poden jugar en el
+    desenvolupament del pensament visual avançat. S’analitzarà, també, com
+    afavorir el pensament visual a través d’aprendre les pròpies tècniques
+    d’elaborar aquests tipus d’imatges.</Abstract>
+
+    <ObjectList>
+      <Object Type="keyword">
+        <Param Name="value">Visualització</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Tipologies visuals</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Pensament visual</Param>
+      </Object>
+    </ObjectList>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>28</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>Análisis del formato del material educativo para la
+    docencia de la estadística para psicólogos</VernacularTitle>
+
+    <FirstPage>21</FirstPage>
+
+    <LastPage>40</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3233</ELocationID>
+
+    <Language>ES</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Montserrat</FirstName>
+
+        <LastName>Freixa-Blanxart</LastName>
+
+        <Affiliation>Universitat de Barcelona (UB).
+        montsefreixa@ub.edu</Affiliation>
+      </Author>
+
+      <Author>
+        <FirstName>Jaume</FirstName>
+
+        <LastName>Turbany-Oset</LastName>
+      </Author>
+
+      <Author>
+        <FirstName>Amàlia</FirstName>
+
+        <LastName>Gordóvil-Merino</LastName>
+      </Author>
+
+      <Author>
+        <FirstName>Joan</FirstName>
+
+        <LastName>Guàrdia-Olmos</LastName>
+      </Author>
+
+      <Author>
+        <FirstName>Maribel</FirstName>
+
+        <LastName>Peró</LastName>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3233</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>El objetivo del presente trabajo consistió en analizar la
+    valoración que realizan los alumnos de la asignatura Análisi de Dades en
+    Psicologia de los diferentes materiales puestos a su disposición para el
+    proceso de enseñanza-aprendizaje de esta materia, con el fin último de
+    poder facilitar al alumnado el material más adecuado para el fomento de su
+    trabajo autónomo. Para ello se administró un cuestionario elaborado ad-hoc
+    en el que se preguntó sobre el diferente tipo de material que tenían a su
+    disposición los alumnos matriculados en esta asignatura en el primer
+    semestre del curso académico 2008-09; en concreto se trabajó con una
+    muestra de 391 estudiantes. Los resultados mostraron que el material mejor
+    evaluado fue el tradicional, es decir, el formulario de la asignatura, el
+    dossier de problemas junto con sus soluciones y las clases, tanto las
+    magistrales como prácticas; en tanto que el material más basado en las
+    nuevas tecnologías fue el peor valorado (CD-Roms interactivos, páginas
+    Web, glosario generado por los alumnos en el campus virtual de la
+    asignatura).</Abstract>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>30</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>El procés d'ensenyament-aprenentatge i les TIC en el
+    context actual de l'ensenyament universitari: la visió de
+    l'estudiantat</VernacularTitle>
+
+    <FirstPage>41</FirstPage>
+
+    <LastPage>65</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3234</ELocationID>
+
+    <Language>CA</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Carmen</FirstName>
+
+        <LastName>Ruíz-Bueno</LastName>
+
+        <Affiliation>Universitat Autònoma de Barcelona (UAB).
+        carmen.ruiz.bueno@uab.cat</Affiliation>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3234</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>La interacció educativa a la universitat està canviant com a
+    conseqüència de l’adaptació del nostre sistema universitari a les
+    directrius marcades per l’Espai Europeu d’Educació Superior (EEES).
+    Aquesta nova construcció de l’escenari europeu d’educació comporta canvis
+    importants. Aquests canvis en la docència tenen relació amb la necessitat
+    d’una major claredat en la definició d’objectius, ja que la formació està
+    basada en competències, en el canvi d’organització dels aprenentatges i la
+    formació i en un nou paper dels mitjans i recursos didàctics, especialment
+    de la utilització de totes les potencialitats de les TIC en els processos
+    formatius. L’article presenta, en aquesta línia de treball amb TIC, els
+    resultats més rellevants d’un estudi realitzat al voltant de la
+    utilització de les TIC en els processos formatius en l’ensenyament
+    superior. Es tracta de reflexionar sobre el paper de l’estudiant, del
+    professor i dels processos d’ensenyament amb l’ús d’entorns virtuals.
+    Concretament, presentem els resultats més significatius en relació a la
+    percepció de l’estudiantat sobre el treball amb entorn virtuals, l’ús
+    d’aquest mitjans, la facilitat o no de treballar amb TIC i, sobre tot,
+    dels condicionants i/o potencialitats de les tecnologies en el procés
+    d’ensenyament i aprenentatge.</Abstract>
+
+    <ObjectList>
+      <Object Type="keyword">
+        <Param Name="value">TIC</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Ensenyança universitària</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Processos formatius</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Espai Europeu d'Educació Superior (EEES)</Param>
+      </Object>
+    </ObjectList>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>30</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>El rol del profesor en el aprendizaje colaborativo
+    mediado por ordenador</VernacularTitle>
+
+    <FirstPage>66</FirstPage>
+
+    <LastPage>82</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3235</ELocationID>
+
+    <Language>ES</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Ingrid</FirstName>
+
+        <LastName>Noguera-Fructuoso</LastName>
+
+        <Affiliation>Universitat de Barcelona (UB).
+        ingridnoguera@gmail.com</Affiliation>
+      </Author>
+
+      <Author>
+        <FirstName>Begoña</FirstName>
+
+        <LastName>Gros-Salvat</LastName>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3235</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>En este artículo se presentan los resultados obtenidos en un
+    estudio sobre el cambio de rol que se produce en el profesorado cuando se
+    utilizan metodologías de aprendizaje colaborativo mediado por las TIC. El
+    interés se focaliza en el uso concreto de una herramienta diseñada para el
+    aprendizaje colaborativo, el Basic Support for Collaborative Learning
+    (BSCL), bajo el modelo pedagógico de cuestionamiento progresivo. En primer
+    lugar, se realiza una revisión teórica. En segundo lugar, se exponen las
+    preguntas de investigación, la justificación de ésta, se describe el
+    diseño y el enfoque metodológico escogido: el estudio de casos. Los
+    resultados obtenidos revelan que existe una tendencia hacia el cambio de
+    rol en el profesorado en el uso del BSCL como herramienta para el
+    aprendizaje colaborativo así como la eficacia del modelo de
+    cuestionamiento progresivo en la construcción de conocimiento del
+    alumnado.</Abstract>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>30</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>Tres caixes plenes d'art: Tàpies, Miró i
+    Picasso</VernacularTitle>
+
+    <FirstPage>83</FirstPage>
+
+    <LastPage>97</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3236</ELocationID>
+
+    <Language>CA</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Lourdes</FirstName>
+
+        <LastName>Martín-Herrero</LastName>
+
+        <Affiliation>CEIP Sant Martí de Barcelona.
+        lmarti37@xtec.cat</Affiliation>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3236</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>Tres caixes plenes d’art és el resultat d’un projecte dut a
+    terme durant cinc mesos del curs escolar 2008/2009, gràcies a
+    l’adjudicació d’una llicència d’estudis retribuïda pel Departament
+    d’Educació de la Generalitat de Catalunya. El punt de partida en les tres
+    caixes és l’art a l’escola, en concret en el parvulari. L’art com a
+    epicentre del qual es teixeix una xarxa amb tots els aspectes del
+    currículum, que conformen la globalitat dels nens i nenes com a persones.
+    Així, a grans trets, podríem dir que, amb el conjunt del treball dels tres
+    artistes esmentats i el dels tres eixos temàtics triats (les textures i
+    els materials de l’entorn, els símbols i els colors, els sentiments i les
+    emocions), al llarg del cicle d’educació infantil, aprofundim en la
+    descoberta de l’entorn, en la comunicació i llenguatges i en la descoberta
+    d’un mateix i dels altres.</Abstract>
+
+    <ObjectList>
+      <Object Type="keyword">
+        <Param Name="value">Art al parvulari</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Artistes a l'educació infantil</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Tàpies</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Mirò</Param>
+      </Object>
+
+      <Object Type="keyword">
+        <Param Name="value">Picasso</Param>
+      </Object>
+    </ObjectList>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>30</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>Reseña de libro: César Coll y Carles Monereo (Eds).
+    Psicología de la educación virtual. Aprender y enseñar con las Tecnologías
+    de la Información y la Comunicación. Madrid: Morata.</VernacularTitle>
+
+    <FirstPage>98</FirstPage>
+
+    <LastPage>102</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3237</ELocationID>
+
+    <Language>ES</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Frida</FirstName>
+
+        <LastName>Díaz-Barriga-Arceo</LastName>
+
+        <Affiliation>Universidad Nacional Autónoma de México (UNAM).
+        fdba@servidor.unam.mx</Affiliation>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3237</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>Ressenya de llibre: César Coll y Carles Monereo (Eds).
+    Psicología de la educación virtual. Aprender y enseñar con las Tecnologías
+    de la Información y la Comunicación. Madrid: Morata.</Abstract>
+  </Article>
+
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en
+      Educació</JournalTitle>
+
+      <Issn>2013-2255</Issn>
+
+      <Volume>2</Volume>
+
+      <Issue>3</Issue>
+
+      <PubDate PubStatus="epublish">
+        <Year>2009</Year>
+
+        <Month>10</Month>
+
+        <Day>30</Day>
+      </PubDate>
+    </Journal>
+
+    <VernacularTitle>Educación, trabajo y diferencias en el tamiz de la
+    organización social: conversaciones abiertas</VernacularTitle>
+
+    <FirstPage>reire2009.2.3238</FirstPage>
+
+    <LastPage>reire2009.2.3238</LastPage>
+
+    <ELocationID EIdType="doi">10.1344/reire2009.2.3238</ELocationID>
+
+    <Language>ES</Language>
+
+    <AuthorList>
+      <Author>
+        <FirstName>Mónica</FirstName>
+
+        <LastName>Arias-Monge</LastName>
+
+        <Affiliation>. monicaariasm@hotmail.com</Affiliation>
+      </Author>
+    </AuthorList>
+
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2009.2.3238</ArticleId>
+    </ArticleIdList>
+
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+
+        <Month>01</Month>
+
+        <Day>27</Day>
+      </PubDate>
+    </History>
+
+    <Abstract>Ressenya de la tesi titulada "Educación, trabajo y diferencias
+    en el tamiz de la organización social: Conversaciones
+    abiertas".</Abstract>
+  </Article>
+</ArticleSet>

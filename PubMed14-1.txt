@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>La mediaci&#xF3;n art&#xED;stica como estrategia de inclusi&#xF3;n social con juventud migrada</VernacularTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>18</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.132690</ELocationID>
+    <Language>spa</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Javiera Alejandra</FirstName>
+        <LastName>Tarrag&#xF3;-Diez</LastName>
+        <Affiliation>Universitat de Barcelona. javiera.tarrago@gmail.com</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>30</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>11</Month>
+        <Day>27</Day>
+      </PubDate>
+    </History>
+    <Abstract>INTRODUCCI&#xD3;N. Este art&#xED;culo da cuenta de una investigaci&#xF3;n acci&#xF3;n llevada a cabo en un taller de teatro social con juventud migrada en Barcelona. Se presenta al colectivo en cuesti&#xF3;n, as&#xED; como la situaci&#xF3;n de exclusi&#xF3;n social en la que se encuentran; se sit&#xFA;a el contexto de la intervenci&#xF3;n, el problema de investigaci&#xF3;n y los objetivos. M&#xC9;TODO. La investigaci&#xF3;n es de car&#xE1;cter inductivo y la metodolog&#xED;a elegida es una fusi&#xF3;n de investigaci&#xF3;n evaluativa con un enfoque participativo y una investigaci&#xF3;n acci&#xF3;n. El dise&#xF1;o de la investigaci&#xF3;n se presenta en tres fases: diagn&#xF3;stico, acci&#xF3;n y valoraci&#xF3;n. RESULTADOS. Se da cuenta de las necesidades de inclusi&#xF3;n social de la juventud, se propone un dise&#xF1;o de taller de teatro social adaptado a esta realidad y se valora la pertinencia de la mediaci&#xF3;n art&#xED;stica como herramienta de inclusi&#xF3;n social. CONCLUSIONES. Se reflexiona sobre los l&#xED;mites y la posibilidad de la mediaci&#xF3;n art&#xED;stica, sobre las condiciones necesarias para llevar a cabo un taller art&#xED;stico en este contexto particular y se recopilan algunas claves metodol&#xF3;gicas para orientar a otros y otras profesionales interesadas en la labor socioeducativa a trav&#xE9;s del arte.</Abstract>
+  </Article>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>Implementaci&#xF3;n de la Educaci&#xF3;n Afectiva y Sexual. Un estudio exploratorio en tres escuelas secundarias p&#xFA;blicas de Barcelona</VernacularTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>17</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.132595</ELocationID>
+    <Language>spa</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Maria Carmelita</FirstName>
+        <LastName>Lapadula</LastName>
+        <Affiliation>Universitat de Barcelona. carmelita.lapadula@ub.edu</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>19</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>11</Month>
+        <Day>30</Day>
+      </PubDate>
+    </History>
+    <Abstract>INTRODUCCI&#xD3;N. El modelo de sexualidad integral, que abarca aspectos biol&#xF3;gicos, sociales, psicol&#xF3;gicos y culturales, define un modelo de educaci&#xF3;n sexual que propone una formaci&#xF3;n graduada, a lo largo de toda la vida, abordada desde diferentes servicios. La escuela, caracterizada por ser uno de los espacios primarios de socializaci&#xF3;n, es clave para el desarrollo de capacidades relacionadas con la sexualidad y la afectividad. M&#xC9;TODO. Se propuso un estudio exploratorio que permitiera analizar c&#xF3;mo es percibida la implementaci&#xF3;n la educaci&#xF3;n sexual en tres escuelas p&#xFA;blicas de la ciudad de Barcelona. Para llevar a cabo la recogida de datos se realizaron entrevistas a estudiantes y docentes de 3.&#xBA; y 4.&#xBA; curso de Educaci&#xF3;n Secundaria Obligatoria de los tres centros estudiados. RESULTADOS. Los resultados se recogieron en cuatro bloques, seg&#xFA;n la informaci&#xF3;n obtenida: a) conceptualizaci&#xF3;n de la Educaci&#xF3;n Sexual y Afectiva, b) acciones en la escuela, c) necesidades de los estudiantes y d) propuestas de mejora. DISCUSI&#xD3;N. Finalmente se contrastaron los resultados obtenidos con estudios que trabajan sobre la necesidad de una educaci&#xF3;n sexual integral y transversal que garantice el ejercicio de la juventud.</Abstract>
+  </Article>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>C&#xE1;lculo del tama&#xF1;o de muestra necesario para estimar el coeficiente de correlaci&#xF3;n de Pearson mediante sintaxis en SPSS</VernacularTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>7</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.132565</ELocationID>
+    <Language>spa</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Javier</FirstName>
+        <LastName>Santab&#xE1;rbara</LastName>
+        <Affiliation>Universidad de Zaragoza. jsantabarbara@unizar.es</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>11</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>12</Month>
+        <Day>09</Day>
+      </PubDate>
+    </History>
+    <Abstract>INTRODUCCI&#xD3;N. El estudio de la asociaci&#xF3;n entre dos variables requiere del c&#xE1;lculo del estad&#xED;stico llamado coeficiente de correlaci&#xF3;n. En la fase de dise&#xF1;o de este tipo de estudios, debe realizarse la estimaci&#xF3;n del n&#xFA;mero m&#xED;nimo de participantes a seleccionar para asegurar que podremos realizar inferencias estad&#xED;sticas con una potencia adecuada. Desafortunadamente, SPSS no ofrece el c&#xE1;lculo del tama&#xF1;o muestral para los estudios de asociaci&#xF3;n de variables cuantitativas. Por tanto, el objetivo principal de este trabajo ha sido calcular mediante sintaxis de SPSS el tama&#xF1;o de la muestra necesario para estimar el coeficiente de correlaci&#xF3;n a trav&#xE9;s de un caso pr&#xE1;ctico. M&#xC9;TODO. Se proporciona un fichero de sintaxis de SPSS para el c&#xE1;lculo del tama&#xF1;o muestral en estudios de asociaci&#xF3;n. RESULTADOS Y DISCUSI&#xD3;N. El uso del fichero de sintaxis servir&#xE1; de apoyo metodol&#xF3;gico para todo investigador usuario de SPSS interesado en el c&#xE1;lculo del tama&#xF1;o muestral para la estimaci&#xF3;n del coeficiente de correlaci&#xF3;n.</Abstract>
+  </Article>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>Pedagogies alternatives i pr&#xE0;ctiques d&#x2019;aula en educaci&#xF3; infantil: la veu dels docents</VernacularTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>18</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.132266</ELocationID>
+    <Language>cat</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Laura</FirstName>
+        <LastName>Benages-Garcia</LastName>
+        <Affiliation>Universitat Jaume I. al188492@uji.es</Affiliation>
+      </Author>
+      <Author>
+        <FirstName>Aida</FirstName>
+        <LastName>Sanahuja-Rib&#xE9;s</LastName>
+        <Affiliation>Universitat Jaume I. asanahuj@uji.es</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>08</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>11</Month>
+        <Day>19</Day>
+      </PubDate>
+    </History>
+    <Abstract>INTRODUCCI&#xD3;. El present article t&#xE9; com a prop&#xF2;sit indagar sobre les pr&#xE0;ctiques de trenta-cinc docents d&#x2019;educaci&#xF3; infantil que desenvolupen pedagogies alternatives a l&#x2019;aula en la prov&#xED;ncia de Castell&#xF3; (Espanya). El que es pret&#xE9;n con&#xE8;ixer &#xE9;s: 1) Com treballen a l&#x2019;aula? Quines s&#xF3;n les seues pr&#xE0;ctiques, els espais d&#x2019;aprenentatge, la gesti&#xF3; del temps, els recursos que utilitzen, les estructures d&#x2019;agrupaments, els continguts curriculars, la metodologia i l&#x2019;avaluaci&#xF3;? 2) Per qu&#xE8; ho fan aix&#xED;? Quines creences, actituds, valors, percepcions i experi&#xE8;ncies tenen? 3) Quin rol juguen els infants i l&#x2019;adult en les pedagogies alternatives? M&#xC8;TODE. La metodologia ha sigut qualitativa. Es tracta d&#x2019;un estudi descriptiu. La informaci&#xF3; s&#x2019;ha recollit mitjan&#xE7;ant trenta-cinc entrevistes semiestructurades i s&#x2019;ha analitzat mitjan&#xE7;ant la ferramenta ATLAS.ti. RESULTATS. Els resultats donen veu als docents d&#x2019;educaci&#xF3; infantil, els quals expliquen com porten a terme les pr&#xE0;ctiques d&#x2019;aula seguint els principis i elements de les pedagogies alternatives. CONCLUSI&#xD3;. En les conclusions es pot veure com els docents es troben en un canvi per desenvolupar i materialitzar, en la seua aula, els principis de les pedagogies alternatives. Tot a&#xE7;&#xF2; suposa un canvi de mirada cap a l&#x2019;infant, per tal d&#x2019;avan&#xE7;ar cap a l&#x2019;escola que volen.</Abstract>
+  </Article>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>La gamificaci&#xF3;n en juego: percepci&#xF3;n de los estudiantes sobre un escape room educativo en el aula de espa&#xF1;ol como lengua extranjera</VernacularTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>19</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.132195</ELocationID>
+    <Language>spa</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Cristina</FirstName>
+        <LastName>Mart&#xED;n-Queralt</LastName>
+        <Affiliation>Universitat de Barcelona. cmartinqueralt@gmail.com</Affiliation>
+      </Author>
+      <Author>
+        <FirstName>Jaume</FirstName>
+        <LastName>Batlle-Rodr&#xED;guez</LastName>
+        <Affiliation>Universitat de Barcelona. jaumebatlle@ub.edu</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>08</Month>
+        <Day>25</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>23</Day>
+      </PubDate>
+    </History>
+    <Abstract>INTRODUCCI&#xD3;N. Los escape rooms son actualmente un entretenimiento muy popular y se ha demostrado, adem&#xE1;s, que ofrecen numerosos beneficios en otros campos como la ense&#xF1;anza de lenguas extranjeras. Dentro del &#xE1;mbito de la gamificaci&#xF3;n, los juegos de escape se comprenden como adecuados para paliar actitudes negativas y promover la comunicaci&#xF3;n, el trabajo en equipo, la cooperaci&#xF3;n y el desarrollo de un aprendizaje significativo acorde a las necesidades e intereses del alumnado. M&#xC9;TODO Y OBJETIVOS. Este estudio, de car&#xE1;cter exploratorio, tiene como objetivos conocer qu&#xE9; valoraci&#xF3;n hacen los alumnos sobre un escape room educativo tras participar en &#xE9;l y qu&#xE9; elementos les han suscitado m&#xE1;s aprendizaje en el marco de la ense&#xF1;anza de espa&#xF1;ol como lengua extranjera (ELE), y adem&#xE1;s pretende poner de manifiesto el valor de los escape rooms como estrategia metodol&#xF3;gica adecuada para la ense&#xF1;anza-aprendizaje de ELE. RESULTADOS. El an&#xE1;lisis de los cuestionarios de percepci&#xF3;n demuestra que los alumnos valoran positivamente el escape room educativo como herramienta y como propuesta did&#xE1;ctica para la ense&#xF1;anza-aprendizaje de ELE. CONCLUSI&#xD3;N. Los alumnos valoran positivamente la participaci&#xF3;n en la experiencia did&#xE1;ctica y consideran que han aprendido significativamente, sobre todo en relaci&#xF3;n con el desarrollo de la comprensi&#xF3;n y los contenidos tratados sobre la cultura hispanoamericana.</Abstract>
+  </Article>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <ArticleTitle>Test anxiety among English language learners: A case of vocabulary testing using multiple-choice items and error identification tests</ArticleTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>11</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.132147</ELocationID>
+    <Language>eng</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Yasin</FirstName>
+        <LastName>Khoshhal</LastName>
+        <Affiliation>University of Guilan, Rasht. Yasin_kd@msc.guilan.ac.ir</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>08</Month>
+        <Day>08</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </PubDate>
+    </History>
+    <Abstract>Introduction. This study sought to discern the impact of test anxiety on English language learners&#x2019; test performance. Method. Fifty female learners at intermediate and upper-intermediate levels of English were divided into two groups &#x2013; Multiple-Choice (MC) and Error Identification (EI) &#x2013; according to their scores in vocabulary tests given in the pre-treatment phase. A questionnaire was then administered to assess the level of anxiety brought about by these tests. During a 20-week period the EI group received lesson plans designed based on error-identification activities, while the MC group was offered instructions including multiple-choice items. After the treatment, the same tests and questionnaire were administered. Results and Discussion. The findings showed that the level of test anxiety was higher in the EI group compared with the MC group. The positive role of familiarization and the negative impact of debilitative anxiety were observed through this study. The findings of the current study can be transferred to other high-stake proficiency tests.</Abstract>
+  </Article>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovaci&#xF3; i Recerca en Educaci&#xF3;</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>14</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>An&#xE1;lisis del uso de las redes sociales de las instituciones de educaci&#xF3;n superior catalanas</VernacularTitle>
+    <FirstPage>1</FirstPage>
+    <LastPage>20</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2021.14.131558</ELocationID>
+    <Language>spa</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Marc</FirstName>
+        <LastName>P&#xE9;rez-Bonaventura</LastName>
+        <Affiliation>Universitat Polit&#xE8;cnica de Catalunya. marcperezbonaventura@gmail.com</Affiliation>
+      </Author>
+      <Author>
+        <FirstName>Salom&#xE9;</FirstName>
+        <LastName>T&#xE1;rrega</LastName>
+        <Affiliation>Universitat Oberta de Catalunya (UOC)&#xD;
+&#xD;
+Universitat de Vic-Universitat Central de Catalunya (UVIc-UCC). starrega@umanresa.cat</Affiliation>
+      </Author>
+      <Author>
+        <FirstName>Jordi</FirstName>
+        <LastName>Vilajosana</LastName>
+        <Affiliation>Universitat Polit&#xE8;cnica de Catalunya. jordi.vilajosana@upc.edu</Affiliation>
+      </Author>
+    </AuthorList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2020</Year>
+        <Month>05</Month>
+        <Day>20</Day>
+      </PubDate>
+      <PubDate PubStatus="accepted">
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>02</Day>
+      </PubDate>
+    </History>
+    <Abstract>INTRODUCCI&#xD3;N. En la actualidad, la competencia entre las universidades ha aumentado de forma importante y los alumnos pueden elegir entre muchas opciones. En este contexto, las universidades necesitan el marketing para destacar y ser las elegidas. En la era de Internet y la web 2.0 parte de la comunicaci&#xF3;n universitaria se ha trasladado a las redes sociales y estas son una de las mejores formas para llegar a los estudiantes. Este trabajo investiga las redes sociales de las universidades de Catalu&#xF1;a.&#xD;
+M&#xC9;TODO. Se han estudiado los seguidores, las publicaciones y la interacci&#xF3;n que consiguen en Facebook, Instagram, Twitter y YouTube las doce universidades catalanas. Se recopilaron los datos en dos momentos: entre el 15 y el 21 de febrero de 2018 (seguidores) y entre el 20 y el 26 de junio de 2018 (todas las variables).&#xD;
+RESULTADOS. Se aprecia un uso muy desigual de las redes entre las diferentes universidades y tambi&#xE9;n en una misma universidad. Se detectan diferencias importantes entre los resultados en valores absolutos y relativos, as&#xED; como entre las universidades p&#xFA;blicas y privadas. &#xD;
+DISCUSI&#xD3;N. Se observa una falta de planificaci&#xF3;n y estrategia en las redes sociales, por parte de las universidades, acentuada en las universidades p&#xFA;blicas en contraste con las privadas.</Abstract>
+  </Article>
+</ArticleSet>

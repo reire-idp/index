@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" version="4.3.6" xsi:schemaLocation="http://www.crossref.org/schema/4.3.6 https://www.crossref.org/schemas/crossref4.3.6.xsd">
+  <head>
+    <doi_batch_id>_1641234426</doi_batch_id>
+    <timestamp>1641234426</timestamp>
+    <depositor>
+      <depositor_name>Francesc Martínez-Olmo</depositor_name>
+      <email_address>reire@ub.edu</email_address>
+    </depositor>
+    <registrant>Universitat de Barcelona</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>REIRE Revista d'Innovació i Recerca en Educació</full_title>
+        <abbrev_title>REIRE</abbrev_title>
+        <issn media_type="electronic">2013-2255</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month>
+          <day>03</day>
+          <year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>15</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>Aprender ciencias con visitas escolares:  Características y dificultades desde el profesorado</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="es">
+            <given_name>Felipe</given_name>
+            <surname>Contreras-Baeza</surname>
+            <alt-name>
+              <name language="ca">
+                <surname>Contreras-Baeza</surname>
+                <given_name>Felipe</given_name>
+              </name>
+              <name language="en">
+                <surname>Contreras-Baeza</surname>
+                <given_name>Felipe</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0001-6293-0797</ORCID>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>Los desafíos de la educación científica actual requieren de una alfabetización científica que invite a las personas a posicionarse ante el mundo con una mirada crítica, informada y curiosa lo cual les permita participar e involucrase en las diversas temáticas que competen e impactan a la sociedad. Para lograr este fin la escuela ha tenido que abrir sus puertas y reconocer el valor de otros contextos educativos que abordan temáticas científicas generando puentes entre ambos escenarios. De esta manera, las visitas escolares se sitúan como recursos y experiencias idóneas para favorecer una adecuada alfabetización científica pues permiten generar aprendizajes diversos e integrales. No obstante, el desconocimiento y débil formación del profesorado sobre esta temática obstaculizan y dificultan la construcción de experiencias de aprendizajes entre escuela y museos y centros de ciencia que promuevan esta alfabetización.&#13;
+ </jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>12</month>
+          <day>10</day>
+          <year>2021</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.1344/reire.37189</doi>
+          <resource>https://revistes.ub.edu/index.php/REIRE/article/view/37189</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://revistes.ub.edu/index.php/REIRE/article/download/37189/36162</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://revistes.ub.edu/index.php/REIRE/article/download/37189/36162</resource>
+            </item>
+            <item>
+              <resource mime_type="text/html">https://revistes.ub.edu/index.php/REIRE/article/download/37189/36164</resource>
+            </item>
+            <item>
+              <resource mime_type="application/epub+zip">https://revistes.ub.edu/index.php/REIRE/article/download/37189/36165</resource>
+            </item>
+            <item>
+              <resource mime_type="audio/mpeg">https://revistes.ub.edu/index.php/REIRE/article/download/37189/36166</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+    <journal>
+      <journal_metadata>
+        <full_title>REIRE Revista d'Innovació i Recerca en Educació</full_title>
+        <abbrev_title>REIRE</abbrev_title>
+        <issn media_type="electronic">2013-2255</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month>
+          <day>03</day>
+          <year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>15</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>Educación inclusiva en el Prácticum de la formación inicial docente en Chile: lo avanzado y los desafíos por alcanzar</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="es">
+            <given_name>Viviana</given_name>
+            <surname>Soto-Montes</surname>
+            <alt-name>
+              <name language="ca">
+                <surname>Soto Montes</surname>
+                <given_name>Viviana</given_name>
+              </name>
+              <name language="en">
+                <surname>Soto-Montes</surname>
+                <given_name>Viviana</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0002-0383-4217</ORCID>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>La educación inclusiva, desde hace algunos años, se ha constituido como un derecho y no solo como un principio orientador. Esta demanda ha exigido a los sistemas educativos cambios de diversa índole, siendo uno de los ejes centrales de cambio la formación inicial de los docentes que deben dar vida a este derecho.
+En el contexto de la formación inicial docente en Chile, los avances en materia de normativa y de estructura curricular de los planes de formación profesores son importantes, especialmente en el caso de la Pontificia Universidad Católica de Chile. Esta universidad logra los mejores resultados en evaluaciones de sus egresados a escala nacional gracias a un modelo formativo que realza la experiencia de los cursos del Prácticum desde los primeros años de formación y que se funda en el desarrollo de Prácticas Generativas, representación desagregada de la compleja labor docente en el aula.
+Este artículo describe en detalle los “pasos adelante” que se dan en Chile en este sentido y en particular en el Prácticum de la Pontificia Universidad Católica de Chile; así como los “desafíos pendientes de alcanzar”.</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>12</month>
+          <day>07</day>
+          <year>2021</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.1344/reire.37148</doi>
+          <resource>https://revistes.ub.edu/index.php/REIRE/article/view/37148</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://revistes.ub.edu/index.php/REIRE/article/download/37148/36156</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://revistes.ub.edu/index.php/REIRE/article/download/37148/36156</resource>
+            </item>
+            <item>
+              <resource mime_type="text/html">https://revistes.ub.edu/index.php/REIRE/article/download/37148/36157</resource>
+            </item>
+            <item>
+              <resource mime_type="application/epub+zip">https://revistes.ub.edu/index.php/REIRE/article/download/37148/36158</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+    <journal>
+      <journal_metadata>
+        <full_title>REIRE Revista d'Innovació i Recerca en Educació</full_title>
+        <abbrev_title>REIRE</abbrev_title>
+        <issn media_type="electronic">2013-2255</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month>
+          <day>03</day>
+          <year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>15</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>Compromís ètic i responsabilitat en el context universitari</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="ca">
+            <given_name>Margarita</given_name>
+            <surname>Mauri-Álvarez</surname>
+            <alt-name>
+              <name language="en">
+                <surname>Mauri-Álvarez</surname>
+                <given_name>Margarita</given_name>
+              </name>
+              <name language="es">
+                <surname>Mauri-Álvarez</surname>
+                <given_name>Margarita</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0003-4662-1454</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="ca">
+            <given_name>Isabel</given_name>
+            <surname>Vilafranca-Manguán</surname>
+            <alt-name>
+              <name language="en">
+                <surname>Vilafranca-Manguán</surname>
+                <given_name>Isabel</given_name>
+              </name>
+              <name language="es">
+                <surname>Vilafranca-Manguán</surname>
+                <given_name>Isabel</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0002-9362-7843</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="ca">
+            <given_name>Carles</given_name>
+            <surname>José-Mestre</surname>
+            <alt-name>
+              <name language="en">
+                <surname>José-Mestre</surname>
+                <given_name>Carles</given_name>
+              </name>
+              <name language="es">
+                <surname>José-Mestre</surname>
+                <given_name>Carles</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0003-1681-1409</ORCID>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>INTRODUCCIÓ. La situació excepcional d’ensenyament virtual, derivada de la crisi provocada per la pandèmia de la covid-19, va obrir un debat universitari que pivotava sobre el compromís ètic i la responsabilitat de l’estudiant a l’hora d’autentificar la seva identitat i autoria en la presentació de treballs o activitats avaluatives. El tema central era la responsabilitat individual i el compromís ètic de l’estudiant, dues competències transversals comunes a molts graus i màsters universitaris. MÈTODE. Aquest article mira d’analitzar, definir i dotar de contingut aquestes competències des de la perspectiva de la seva adquisició per part dels estudiants. RESULTATS. A través d’aquesta aproximació conceptual, s’ofereixen algunes pautes als docents universitaris per fomentar i ensenyar les competències esmentades. DISCUSSIÓ. La funció exemplar del professorat i de la institució universitària, tal com pretén demostrar-se, és crucial per al foment de la responsabilitat de l’estudiant i del compromís ètic.</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>12</month>
+          <day>02</day>
+          <year>2021</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.1344/reire.36970</doi>
+          <resource>https://revistes.ub.edu/index.php/REIRE/article/view/36970</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://revistes.ub.edu/index.php/REIRE/article/download/36970/36149</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://revistes.ub.edu/index.php/REIRE/article/download/36970/36149</resource>
+            </item>
+            <item>
+              <resource mime_type="text/html">https://revistes.ub.edu/index.php/REIRE/article/download/36970/36150</resource>
+            </item>
+            <item>
+              <resource mime_type="application/epub+zip">https://revistes.ub.edu/index.php/REIRE/article/download/36970/36151</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+    <journal>
+      <journal_metadata>
+        <full_title>REIRE Revista d'Innovació i Recerca en Educació</full_title>
+        <abbrev_title>REIRE</abbrev_title>
+        <issn media_type="electronic">2013-2255</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month>
+          <day>03</day>
+          <year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>15</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>inclusión de adolescentes latinoamericanos en L’Hospitalet de Llobregat</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="es">
+            <given_name>Pau</given_name>
+            <surname>Gil-Azorín</surname>
+            <alt-name>
+              <name language="ca">
+                <surname>Gil Azorín</surname>
+                <given_name>Pau</given_name>
+              </name>
+              <name language="en">
+                <surname>Gil-Azorín</surname>
+                <given_name>Pau</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0002-1790-1281</ORCID>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>El presente artículo pretende contextualizar y hacer una aproximación teórica de conceptos para pensar en clave de inclusión socioeducativa, más específicamente, cuando nos encontramos con adolescentes migrantes procedentes de países latinoamericanos. Principalmente, se relata cuáles son las estrategias que se articulan desde los entes locales en Cataluña y más concretamente en ciudades como L’Hospitalet de Llobregat. En este estudio teórico, hay una breve introducción sobre qué es emigrar en la etapa de la adolescencia y, posteriormente, se exponen discursos centrados en la inclusión social de adolescentes migrantes y sobre la inclusión en los centros educativos de secundaria obligatoria, además de la importancia de la educación intercultural. Finalmente, se exponen las estrategias para el aprendizaje de la lengua catalana, principal problemática de los chicos y chicas en los institutos, y los programas de inclusión que se llevan a cabo en L’Hospitalet de Llobregat para fomentar la relación con la ciudad y la sociedad.</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>12</month>
+          <day>01</day>
+          <year>2021</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.1344/reire.37142</doi>
+          <resource>https://revistes.ub.edu/index.php/REIRE/article/view/37142</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://revistes.ub.edu/index.php/REIRE/article/download/37142/36159</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://revistes.ub.edu/index.php/REIRE/article/download/37142/36159</resource>
+            </item>
+            <item>
+              <resource mime_type="text/html">https://revistes.ub.edu/index.php/REIRE/article/download/37142/36160</resource>
+            </item>
+            <item>
+              <resource mime_type="application/epub+zip">https://revistes.ub.edu/index.php/REIRE/article/download/37142/36161</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+    <journal>
+      <journal_metadata>
+        <full_title>REIRE Revista d'Innovació i Recerca en Educació</full_title>
+        <abbrev_title>REIRE</abbrev_title>
+        <issn media_type="electronic">2013-2255</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month>
+          <day>03</day>
+          <year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>15</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>actitud fenomenológica de la epojé en un estudio sobre participación política de mujeres jóvenes</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="es">
+            <given_name>Pilar</given_name>
+            <surname>Folgueiras-Bertomeu</surname>
+            <alt-name>
+              <name language="ca">
+                <surname>Folgueiras-Bertomeu</surname>
+                <given_name>Pilar</given_name>
+              </name>
+              <name language="en">
+                <surname>Folgueiras-Bertomeu</surname>
+                <given_name>Pilar</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0002-1343-0312</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="es">
+            <given_name>Valeria</given_name>
+            <surname>De-Ormaechea-Otalora</surname>
+            <alt-name>
+              <name language="ca">
+                <surname>De-Ormaechea-Otalora</surname>
+                <given_name>Valeria</given_name>
+              </name>
+              <name language="en">
+                <surname>De-Ormaechea-Otalora</surname>
+                <given_name>Valeria</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0002-5742-4408</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="es">
+            <given_name>Ariadna</given_name>
+            <surname>Salvà-Aige</surname>
+            <ORCID>https://orcid.org/0000-0001-7323-9344</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="es">
+            <given_name>Míriam</given_name>
+            <surname>Comet-Donoso</surname>
+            <alt-name>
+              <name language="ca">
+                <surname>Comet-Donoso</surname>
+                <given_name>Míriam</given_name>
+              </name>
+              <name language="en">
+                <surname>Comet-Donoso</surname>
+                <given_name>Míriam</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0003-2738-6217</ORCID>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>INTRODUCCIÓN. El enfoque fenomenológico comporta una exploración constante. Para ello resulta imprescindible la revisión del equipo de investigación acerca de los preconceptos que están funcionando en relación con el tema de estudio. La epojé tiene un papel fundamental para comprender la participación política siendo mujer y joven. El proceso de revisión constante de las ideas y prejuicios es la parte central en la investigación fenomenológica.MÉTODO. Se exponen las cuatro fases del proceso de investigación para detenernos en la primera parte de la segunda fase; en concreto, en la experiencia de participación política del equipo de investigación. Las reflexiones sobre las experiencias de las integrantes del equipo se realizan a partir de relatos y preguntas abiertas y reuniones sobre participación política.RESULTADOS y DISCUSIÓN. Las ideas y los prejuicios del equipo de investigación interceden en el proceso fenomenológico, hacerlo visible es necesario para adentrarnos en los esenciales sin categorizar la experiencia vivida desde la teoría. Asimismo, implica una concienciación de los prejuicios y estereotipos del equipo con respecto al fenómeno de estudio.</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>11</month>
+          <day>24</day>
+          <year>2021</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.1344/reire.35693</doi>
+          <resource>https://revistes.ub.edu/index.php/REIRE/article/view/35693</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://revistes.ub.edu/index.php/REIRE/article/download/35693/36118</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://revistes.ub.edu/index.php/REIRE/article/download/35693/36118</resource>
+            </item>
+            <item>
+              <resource mime_type="text/html">https://revistes.ub.edu/index.php/REIRE/article/download/35693/36119</resource>
+            </item>
+            <item>
+              <resource mime_type="application/epub+zip">https://revistes.ub.edu/index.php/REIRE/article/download/35693/36121</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+    <journal>
+      <journal_metadata>
+        <full_title>REIRE Revista d'Innovació i Recerca en Educació</full_title>
+        <abbrev_title>REIRE</abbrev_title>
+        <issn media_type="electronic">2013-2255</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month>
+          <day>03</day>
+          <year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>15</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>Universitat i societat del canvi amb elements explicatius d’una crisi institucional</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="ca">
+            <given_name>Bartomeu</given_name>
+            <surname>Mulet-Trobat</surname>
+            <alt-name>
+              <name language="en">
+                <surname>Mulet-Trobat</surname>
+                <given_name>Bartomeu</given_name>
+              </name>
+              <name language="es">
+                <surname>Mulet-Trobat</surname>
+                <given_name>Bartomeu</given_name>
+              </name>
+            </alt-name>
+            <ORCID>https://orcid.org/0000-0002-0182-295X</ORCID>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>INTRODUCCIÓ. Enfront dels plantejaments de modernització de la universitat espanyola sovint hi ha diversos qüestionaments, especialment si tenim present l’evolució organitzativa i burocràtica de les estructures universitàries, incloent-hi les acadèmiques, que dificulten, per no dir que impossibiliten, un canvi en la línia que es proposa en el marc de la Unió Europea (espai europeu d’educació superior) i de la societat del coneixement o de la informació en el context de la globalització capitalista i del neoliberalisme.
+MÈTODE. Es tracta d’un treball de reflexió sociològica teòrica a partir d’autors com Francisco Fernández Palomares, Buenaventura de Santos Sousa, Jaume Carbonell, Henry Giroux, Sheila Slaughter, Gary Rhoades o Derek Bok, que aporten un sentit crític sobre l’educació superior, així com a partir del web del Ministeri d’Universitats. El treball comprèn també una reflexió sobre el funcionament real de la universitat amb les seves contradiccions en el context d’una societat aparentment i formalment democràtica.
+RESULTATS i DISCUSSIÓ. Els resultats expliquen per què es pot parlar de la crisi del sistema universitari a l’Estat espanyol i posen de manifest, almenys parcialment, els dubtes que es generen en el coneixement, la cultura, la docència i la investigació que es duen a terme a la universitat.</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>11</month>
+          <day>19</day>
+          <year>2021</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.1344/reire.35947</doi>
+          <resource>https://revistes.ub.edu/index.php/REIRE/article/view/35947</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://revistes.ub.edu/index.php/REIRE/article/download/35947/36100</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://revistes.ub.edu/index.php/REIRE/article/download/35947/36100</resource>
+            </item>
+            <item>
+              <resource mime_type="text/html">https://revistes.ub.edu/index.php/REIRE/article/download/35947/36101</resource>
+            </item>
+            <item>
+              <resource mime_type="application/epub+zip">https://revistes.ub.edu/index.php/REIRE/article/download/35947/36102</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
